@@ -1,0 +1,11 @@
+Arquitectura de software 
+
+https://www.uxpin.com/studio/blog/constraints-in-design/
+https://www.nascode.com/articles/marketing-lebanon/blog/9-types-of-design-constraints/en
+https://simplicable.com/design/design-constraints#google_vignette
+https://www.neverletdown.net/2014/10/dealing-with-constraints-in-software-architecture.html
+https://www.researchgate.net/figure/Design-Constraint-Example_tbl1_220864909
+https://www.lirmm.fr/~tibermacin/papers/2014/CT_ChapterOussalah_2014.pdf
+https://roboy-sw-documentation-template.readthedocs.io/en/latest/02_architecture_constraints.html
+https://www.studocu.com/pe/document/universidad-peruana-de-ciencias-aplicadas/fundamentos-de-arquitectura-de-software/s9-attribute-driven-design/40139210
+https://arquisoft.github.io/slides/course1920/ES.ASW.Te04_AtributosCalidad.pdf
